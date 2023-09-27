@@ -7,7 +7,6 @@ Clurebyte is dedicated to empowering businesses with cutting-edge cloud computin
 - [About Clurebyte](#about-clurebyte)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [Links](#links)
 
 ## About Clurebyte
@@ -30,9 +29,6 @@ To get started with Clurebyte, follow these steps:
 1. [Sign up](https://www.clurebyte.com/signup-github) for an account using GitHub.
 2. Explore our [website](https://www.clurebyte.com/) for additional information.
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to Clurebyte, please review our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Links
 
