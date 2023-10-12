@@ -20,14 +20,14 @@ At Clurebyte, we are committed to simplifying cloud computing and making it acce
 - Tailored Solutions for Businesses
 - Partnered with Leading Cloud Providers
 
-Explore our [website](https://www.clurebyte.com/) for more details.
+Explore our [website](https://clurebyte.com/) for more details.
 
 ## Getting Started
 
 To get started with Clurebyte, follow these steps:
 
-1. [Sign up](https://www.clurebyte.com/signup-github) for an account using GitHub.
-2. Explore our [website](https://www.clurebyte.com/) for additional information.
+1. [Sign up](https://clurebyte.com/signup-github) for an account using GitHub.
+2. Explore our [website](https://clurebyte.com/) for additional information.
 
 
 ## Links
