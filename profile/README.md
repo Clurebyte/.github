@@ -5,19 +5,12 @@ Clurebyte is dedicated to empowering businesses with cutting-edge cloud computin
 ## Table of Contents
 
 - [About Clurebyte](#about-clurebyte)
-- [Features](#features)
 - [Getting Started](#getting-started)
 
 ## About Clurebyte
 
 At Clurebyte, we are committed to simplifying cloud computing and making it accessible to businesses of all sizes. Our mission is to be the catalyst that propels organizations into a new era of efficiency, collaboration, and innovation.
 
-## Features
-
-- Unified Cloud Computing Platform
-- Specialized Cloud Training Programs
-- Tailored Solutions for Businesses
-- Partnered with Leading Cloud Providers
 
 Explore our [website](https://clurebyte.com/) for more details.
 
